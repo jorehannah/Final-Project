@@ -1,0 +1,38 @@
+
+.header{
+  width:100%;
+  text-align:center;
+}
+
+h1{
+  font-size:50px;
+  color:DarkMagenta;
+}
+
+.pics{
+  display:flex;
+  width:100%;
+  justify-content:space-evenly;
+}
+
+p{
+  font-size:20px;
+  text-align:center;
+}
+
+form{
+  width: 50%;
+  margin: 0 auto;
+  text-align:center;
+  
+}
+
+label, input {
+    display: inline-block;
+}
+
+label{
+  width:40%;
+  text-align:left;
+
+}

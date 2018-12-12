@@ -1,0 +1,8 @@
+.pics{
+  display:flex;
+  justify-content:space-evenly;
+}
+
+.paras{
+  text-align:justify;
+}
